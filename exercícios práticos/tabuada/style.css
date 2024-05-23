@@ -1,0 +1,48 @@
+body {
+    background-color: green;
+    font: normal 15pt Arial;
+}
+
+header {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    background-color: rgb(176, 176, 176);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.647);
+}
+
+footer {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-style: italic;
+}
+
+input {
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+#gertab:hover {
+     padding: 3px;
+}
+
+p {
+    font-weight: bold;
+}
+
+#seltab {
+    border-radius: 5px;
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
